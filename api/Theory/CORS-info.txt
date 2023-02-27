@@ -1,0 +1,6 @@
+Refer to Screenshot
+- When you create an MVC application your views are interlinked with your backend controllers.
+- So that is the reason why your backend as well as frontend can be run on a single port number.
+- But when you want you create an API which will be accessible to any kind of UI application.
+- At that time the port number of client application might differ from server, so at that time you face a CORS error.
+- So CORS error basically states that your frontend and backend are not running on a common port number.
